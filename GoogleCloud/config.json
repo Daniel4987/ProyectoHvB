@@ -1,0 +1,7 @@
+{
+  "RESULT_TOPIC": "savehvb",
+  "RESULT_BUCKET": "texthvb",
+  "TRANSLATE_TOPIC": "translatehvb",
+  "TRANSLATE": true,
+  "TO_LANG": ["en", "fr", "es", "ja", "ru"]
+}
